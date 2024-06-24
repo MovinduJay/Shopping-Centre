@@ -1,0 +1,10 @@
+Electronics, S1234, Phone, 4500.0, 4, Apple, 4
+Clothing, D1324, Trouser, 1200.0, 2, S, Blue
+Clothing, Q3214, Skirt, 1400.0, 2, M, Black
+Electronics, A1234, Phone, 450.0, 10, Apple, 4
+Clothing, W3652, Shirt, 75.0, 2, S, Red
+Clothing, G1254, Trouser, 45.0, 4, M, Black
+Electronics, Q3246, Mouse, 13.0, 13, DELL, 4
+Electronics, A2134, abc, 15.0, 12, avc, 5
+Clothing, A3246, sdf, 50.0, 12, S, Red
+Electronics, E5421, Phone, 15.0, 10, fdw, 5
